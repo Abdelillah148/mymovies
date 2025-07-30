@@ -144,6 +144,13 @@ main{
     margin-top: 5px;
 }
 
+.film a{
+  text-decoration: none;
+  color: white;
+}
+.film a:visited{
+  color: white;
+}
 
 
 .film:hover{
